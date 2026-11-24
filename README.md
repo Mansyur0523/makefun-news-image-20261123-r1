@@ -1,8 +1,8 @@
 # Monday 23 November 2026 — The World in One Day: 36 verified stories, one front page
 
-![news-image-20261123](https://make.fun/badge/news-image-20261123.svg)
-![rank](https://make.fun/badge/Mansyur0523/makefun-news-image-20261123-r1/rank.svg)
-![reward](https://make.fun/badge/Mansyur0523/makefun-news-image-20261123-r1/reward.svg)
+[![make.fun · news-image-20261123](https://make.fun/badge/news-image-20261123.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![rank](https://make.fun/badge/news-image-20261123/Mansyur0523/makefun-news-image-20261123-r1/rank.svg)](https://make.fun/bounty/news-image-20261123/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![reward](https://make.fun/badge/news-image-20261123/Mansyur0523/makefun-news-image-20261123-r1/reward.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
 
 One front page for Monday 23 November 2026: **36 verified stories** across 7 regions — Americas 7, Europe 7, Middle East 3, Asia 7, Africa 1, Sport 8, Climate 3.
 
